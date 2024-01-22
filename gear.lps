@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="gear.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="56" Y="13"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVM"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="326"/>
+        <CursorPos X="20" Y="349"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uopcodes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uOpcodes"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="33"/>
+        <CursorPos X="36" Y="74"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulogger.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uLogger"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvalue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uValue"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="417"/>
+        <CursorPos X="3" Y="687"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVector"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="132"/>
+        <CursorPos X="5" Y="160"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uast.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uAST"/>
+        <EditorIndex Value="6"/>
+        <CursorPos Y="6"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uToken"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="10" Y="7"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulexer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uLexer"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="164"/>
+        <CursorPos Y="128"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uParser"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="93"/>
+        <CursorPos X="3" Y="96"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uchars.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uChars"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="27" Y="42"/>
+        <UsageCount Value="225"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucompiler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCompiler"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="475"/>
+        <CursorPos X="29" Y="508"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udisassembler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDisassembler"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="182"/>
+        <CursorPos X="71" Y="208"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucommon.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCommon"/>
+        <EditorIndex Value="16"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uglobals.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uGlobals"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="8"/>
+        <CursorPos X="11" Y="57"/>
+        <UsageCount Value="225"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uscope.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uScope"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="116"/>
+        <CursorPos X="3" Y="82"/>
+        <UsageCount Value="239"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucollector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCollector"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="66"/>
+        <CursorPos X="13" Y="82"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fpc_cocoa/fpcsrc/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="688"/>
+        <CursorPos X="3" Y="723"/>
+        <UsageCount Value="86"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uvm.pas"/>
+        <Caret Line="381" Column="14" TopLine="356"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="306" Column="24" TopLine="301"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="55" Column="22" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="udisassembler.pas"/>
+        <Caret Line="95" Column="36" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="udisassembler.pas"/>
+        <Caret Line="29" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ucollector.pas"/>
+        <Caret Line="82" Column="13" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="128" Column="59" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="49" Column="58" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="142" Column="22" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="49" Column="35" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="149" Column="41" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="152" Column="3" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="580" Column="75" TopLine="579"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="29" Column="23" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="9" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="uvector.pas"/>
+        <Caret Line="49" Column="22" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="149" Column="20" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="196" Column="22" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="128" Column="23" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="423" Column="29" TopLine="416"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="412" Column="33" TopLine="401"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="139" Column="19" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="uscope.pas"/>
+        <Caret Line="49" Column="19" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="151" Column="20" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="gear.lpr"/>
+        <Caret Line="24" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="gear.lpr"/>
+        <Caret Line="52" Column="13" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="gear.lpr"/>
+        <Caret Line="77" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="gear.lpr"/>
+        <Caret Line="6" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="uvm.pas"/>
+        <Caret Line="71" Column="21" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="uvm.pas"/>
+        <Caret Line="52" Column="19" TopLine="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
